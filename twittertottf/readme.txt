@@ -4,7 +4,7 @@ Donate link: http://www.kieranmasterton.com
 Tags: twitter, ttf, tweet
 Requires at least: 2.0.2
 Tested up to: 2.1
-Stable tag: 4.3
+Stable tag: 0.1
 
 Takes a Twitter ID and grabs the latest Tweet and displays it in a TTF
 
